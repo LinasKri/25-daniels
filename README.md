@@ -5,7 +5,7 @@
 
 # 25-daniels
 
-_25 group website project of LinasKri _
+_25-group website project of LinasKri _
 
 # The best is yet to come!
 
