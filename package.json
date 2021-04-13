@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev" : "live-server --port=3000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -11,7 +12,7 @@
     "url": "git+https://github.com/LinasKri/25-daniels.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "LinasKri",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LinasKri/25-daniels/issues"
@@ -19,5 +20,6 @@
   "homepage": "https://github.com/LinasKri/25-daniels#readme",
   "dependencies": {
     "live-server": "^1.2.1"
-  }
+  },
+  "type": "module"
 }
