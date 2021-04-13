@@ -11,7 +11,7 @@
 /* footer */
 
 // FUNKCIJU PANAUDOJIMAS
-//* header */
+/* header */
 /* hero */
 /* about me */
 /* services */
