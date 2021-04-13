@@ -1,4 +1,4 @@
-/* init */
+/* INIT */
 @import "./init/reset.css";
 @import "./init/variables.css";
 @import "./init/layout.css";
@@ -6,9 +6,26 @@
 /* 3rd party */
 @import "./3rd-party/font-awesome.min.css";
 /* components*/
-@import "./components/footer.css";
 @import "./components/header.css";
+/* hero */
+/* about me */
+/* services */
+/* portfolio */
+/* testimonials */
+/* achievements */
+/* blog */
+/* contacts */
+/* footer */
+@import "./components/footer.css";
 
 /* CUSTOM STILIAUS SEKCIJOS*/
 /* header */
+/* hero */
+/* about me */
+/* services */
+/* portfolio */
+/* testimonials */
+/* achievements */
+/* blog */
+/* contacts */
 /* footer */
