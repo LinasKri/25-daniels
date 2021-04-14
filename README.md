@@ -9,7 +9,7 @@ _25-group website project of LinasKri _
 
 # The best is yet to come!
 
-But this is what we have so far: #
+But this is what I have so far: https://linaskri.github.io/25-daniels/
 
 Design [Daniels](http://www.innovationplans.com/idesign/daniels/particles.html)
 
