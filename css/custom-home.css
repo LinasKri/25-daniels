@@ -3,22 +3,23 @@
 @import "./init/variables.css";
 @import "./init/layout.css";
 @import "./init/base.css";
+
 /* 3rd party */
 @import "./3rd-party/font-awesome.min.css";
+
 /* components*/
 @import "./components/header.css";
-/* hero */
-/* about me */
-/* services */
-/* portfolio */
-/* testimonials */
-/* achievements */
-/* blog */
-/* contacts */
-/* footer */
+@import "./components/about-me.css";
+@import "./components/services.css";
+@import "./components/portfolio.css";
+@import "./components/testimonials.css";
+@import "./components/achievements.css";
+@import "./components/blog.css";
+@import "./components/contacts.css";
 @import "./components/footer.css";
 
 /* CUSTOM STILIAUS SEKCIJOS*/
+
 /* header */
 /* hero */
 /* about me */
