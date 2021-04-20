@@ -9,6 +9,7 @@
 
 /* components*/
 @import "./components/header.css";
+@import "./components/hero.css";
 @import "./components/about-me.css";
 @import "./components/services.css";
 @import "./components/portfolio.css";
